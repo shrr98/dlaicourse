@@ -1,0 +1,7 @@
+**.vscode/
+**.ipynb_checkpoints/
+**.h5
+**.bin
+**.zip
+**model.json
+default*.ipynb
